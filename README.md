@@ -1,4 +1,4 @@
-<img align="right" width="128" height="110" alt="SHSID Data Science Club" src="https://github.com/user-attachments/assets/insert_image_here" />
+<img align="right" width="128" height="110" alt="SHSID Data Science Club" src="https://github.com/user-attachments/assets/61a0d5dd-37e3-45b0-a58e-e7724aa2579c" />
 
 <div align="left">
 
